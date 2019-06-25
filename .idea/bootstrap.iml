@@ -11,5 +11,6 @@
     <orderEntry type="library" name="jquery-3.3.1" level="application" />
     <orderEntry type="library" name="slick" level="application" />
     <orderEntry type="library" name="ekko-lightbox" level="application" />
+    <orderEntry type="library" name="ckeditor" level="application" />
   </component>
 </module>
